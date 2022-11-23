@@ -1,0 +1,20 @@
+.music_container{
+    width: 300px;
+    border: 1px solid rgb(19, 51, 111);
+    margin-bottom: 2rem;
+    color: rgb(19, 51, 111);
+}
+.music-wrapp {
+    display: flex;
+}
+
+.description{
+    width: 6rem;
+    background-color: aqua;
+    font-weight: bold;
+}
+
+.points{
+    margin-right: 1rem;
+    font-weight: bold;
+}
